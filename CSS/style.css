@@ -111,6 +111,10 @@ header{
   margin-bottom: 40px;
 }
 
+.header__icons--btn, :hover{
+  color: #000000;
+}
+
 
 
 
